@@ -11,5 +11,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2023-10-21
 ### Added
-- 
+- API root route display available routes
+- get_network_coverage route to retrieve the network coverage from an address
 

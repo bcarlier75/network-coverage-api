@@ -1,0 +1,47 @@
+MCC,MNC,Marque,Opérateur,Statut,Bandes de Fréquence,Références et notes
+208,01,Orange,Orange,Opérationnel,GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE,Réseaux GSM/UMTS (code principal)
+208,02,Orange,Orange,Opérationnel,"GSM 900, UMTS",Zones blanches
+208,03,MobiquiThings,MobiquiThings,Opérationnel,"GSM, UMTS, satellite",Full MVNO. Racheté par Sierra Wireless en 2015
+208,04,Netcom Group,Netcom Group / Phenix Partner,En cours,Full MVNO,précédemment Orange puis Sisteer
+208,05,Globalstar,Globalstar Europe,Opérationnel,Satellite,
+208,06,,Globalstar Europe,Opérationnel,Satellite,
+208,07,,Globalstar Europe,Opérationnel,Satellite,
+208,08,Completel,SFR (achat de Completel),Opérationnel,"GSM, UMTS, LTE",
+208,09,SFR,SFR,?,ex : Neuf Telecom,
+208,10,SFR,SFR,Opérationnel,GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE,Réseaux GSM/UMTS (code principal)
+208,11,SFR,SFR,Opérationnel,UMTS 2100,Femtocells
+208,12,,Hewlett-Packard France,Abrogé,MVNO,
+208,13,SFR,SFR,Opérationnel,GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100,Zones blanches
+208,14,RFF,RFF,Opérationnel,GSM-R,attribué par erreur à Free Mobile dans un premier temps
+208,15,Free,Free mobile,Opérationnel,UMTS 900 / UMTS 2100 / LTE,(code principal)
+208,16,Free,Free mobile,Opérationnel,LTE,Servirait (peut-être) à faciliter la resélection sur le réseau 4G de Free Mobile à la place de l'itinerance partenaire sur le réseau 2G/3G d'Orange
+208,17,Legos,Legos (MVNO),Opérationnel,"GSM, UMTS, LTE",Full MVNO (Orange) et MVNO (SFR)
+208,18,Voxbone,Voxbone,Disparu,,Numéros virtuels
+208,19,Altitude,Altitude infrastructure,?,"GSM, UMTS, LTE",MVNO
+208,20,Bouygues Telecom,Bouygues Telecom,Opérationnel,GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE,Réseaux GSM/UMTS/LTE (code principal)
+208,21,Bouygues Telecom,Bouygues Telecom,Opérationnel,,Réseau expérimental
+208,22,Transatel Mobile,Transatel (MVNE),Opérationnel,"GSM, UMTS, LTE",MVNE et full MVNO
+208,23,Syndicat mixte ouvert Charente numérique,,?,?,Anciennement Virgin Mobile/Omea Telecom (MVNO) racheté par SFR
+208,24,MobiquiThings,MobiquiThings (MVNO/MVNE),Opérationnel,"GSM, UMTS, Satellite",Full MVNO. Racheté par Sierra Wireless en 2015
+208,25,Lycamobile,Lycamobile  (MVNO),Opérationnel,"GSM, UMTS, LTE",Full MVNO (Bouygues Telecom)
+208,26,NRJ Mobile / Auchan Télécom / Crédit Mutuel Mobile / CIC Mobile / CDiscount Mobile / SIM+,Bouygues Télécom Business distribution (Anciennement Euro Information Télécom),Opérationnel,"GSM, UMTS, LTE",MVNO et full MVNO
+208,27,Coriolis,Coriolis Télécom,Opérationnel,"GSM, UMTS, LTE",MVNO et full MVNO. Racheté par SFR en 2021 (précédemment Afone)
+208,28,AIF,Airmob,Opérationnel,"GSM, UMTS, LTE, 5G",Full MVNO et MVNA. Racheté par Altitude Infrastructure en 2022
+208,29,Cubic telecom France,,?,,anciennement IMC International Mobile Communication
+208,30,Syma Mobile,Symacom (MVNO),Opérationnel,"GSM, UMTS, LTE",Full MVNO. Racheté par SFR en 2022
+208,31,Vectone / Delight Mobile (MVNO),Mundio Mobile (MVNE),Opérationnel,"GSM, UMTS, LTE",Full MVNO
+208,32,Orange,Orange,,,Réseau de test
+208,34,Cellhire,Cellhire France,?,,Full MVNO
+208,35,Free,Free mobile,Opérationnel,NR,Vraisemblablement dédié au réseau 5G de Free Mobile en voie de déploiement
+208,86,SEM@FOR77,,?,,Anciennement Nomotech
+208,88,Bouygues,Bouygues Telecom,Opérationnel,"GSM 900 /1800, UMTS",Zones blanches
+208,89,,Fondation b-com,inconnu,"UMTS, LTE",Réseau de test
+208,90,Association Images & Réseaux,Association Images & Réseaux,?,LTE,Réseau de test
+208,91,Orange,Orange,?,LTE,Réseau de test
+208,92,Association Plate-forme Telecom,,Disparu,LTE,Réseau de test
+208,93,Thales communications & Security SAS,,?,,Anciennement TDF
+208,94,Halys,Halys,En test,"GSM, LTE",Réseau de test
+208,95,Orange,Orange,?,LTE-TDD,Réseau de test
+208,96,Axione,Axione,Pilote,Test TDD-LTE (RIP),Réseau de test
+208,97,,Thales communications,?,?,Réseau de test
+208,98,Air France,Air France,?,?,Réseau de test
